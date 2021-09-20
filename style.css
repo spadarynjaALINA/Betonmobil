@@ -9,6 +9,7 @@ body {
     color: #333333;
     background-color: #FFFFFF;
     max-width: 1920px;
+
 }
 
 .header {
@@ -679,9 +680,9 @@ footer {
 
 .pulsephone {
     position: fixed;
-    top: 522px;
-    right: 306px;
-    z-index: 1;
+    top: 75%;
+    right: 7%;
+    z-index: 99;
     transform: translate(-50%, -50%);
     background: #3D9BE9;
     border-radius: 50%;
